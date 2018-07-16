@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: James Thompson
+name: jath1024.github.io
 
 # Short bio or description (displayed in the header)
 description: Cloud Solution Architect at Microsoft
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: jath1024/jekyll-now
+  github: jath1024/jath1024.github.io
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://jath1024.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
