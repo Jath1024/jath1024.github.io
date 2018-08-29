@@ -13,4 +13,4 @@ Like beer, pizza, BBQ, walks in countryside, my wife (not necessarily in that or
 
 ### Contact me
 
-[email@domain.com](mailto:jath1024@outlook.com)
+[jath1024@outlook.com](mailto:jath1024@outlook.com)
