@@ -52,6 +52,6 @@ RBAC applied to resource groups at the ASP, Web App and Dashboard level to contr
 
 [Azure Monitor Overview](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-azure-monitor)
 
-[Video](../images/video/Metrics_Filter_Splitting.webm)
+![Video](../images/video/Metrics_Filter_Splitting.gif)
 
 > Written with [StackEdit](https://stackedit.io/).
